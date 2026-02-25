@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCredit AI",
+  "description": "A multilingual, voice-driven loan approval system using AI for financial assessment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
